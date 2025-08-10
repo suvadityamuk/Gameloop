@@ -1,0 +1,23 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#AFCBFE;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FBCCCE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F5F49E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="25" fill="url(#grad1)" />
+  
+  <!-- Game controller icon -->
+  <rect x="20" y="25" width="20" height="10" rx="3" fill="white" opacity="0.9"/>
+  <circle cx="24" cy="28" r="1.5" fill="#333"/>
+  <circle cx="36" cy="28" r="1.5" fill="#333"/>
+  <rect x="26" y="26" width="8" height="1" fill="#333"/>
+  <rect x="29" y="24" width="2" height="4" fill="#333"/>
+  
+  <!-- Text -->
+  <text x="65" y="25" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="url(#grad1)">Gameloop</text>
+  <text x="65" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="400" fill="#888">Create • Play • Share</text>
+</svg>
