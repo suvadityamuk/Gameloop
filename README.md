@@ -2,7 +2,7 @@
 
 **TikTok for Games + AI Game Creation Studio**
 
-A revolutionary iOS app that democratizes game creation through natural language AI while providing a viral discovery platform for indie games.
+An iOS app that democratizes game creation through natural language AI while providing a viral discovery platform for indie games.
 
 ## 🚀 The Problem
 
@@ -105,8 +105,8 @@ Gameloop combines **TikTok's addictive discovery model** with **AI-powered game 
 
 ---
 
-**Built for YC Demo Day 2025**  
+**Built for YC AI Coding Agents Hackathon 2025**  
 *Making game creation as easy as posting a TikTok*
 
 🔗 **Try it**: Clone repo → Open in Xcode → Run on iOS Simulator  
-📧 **Contact**: [Your contact information]
+📧 **Contact**: [Suvaditya Mukherjee](https://x.com/halcyonrayes)
